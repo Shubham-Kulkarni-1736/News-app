@@ -73,5 +73,3 @@ searchButton.addEventListener("click", () => {
 });
 
 
-
-
